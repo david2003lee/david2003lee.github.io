@@ -8,13 +8,12 @@
 },
 "Contact": {
   "EMail": "leed35@spu.edu",
-  "Phone": "(714) 707-1210",
   "Portfolio": "david2003lee.github.io",
   "LinkedIn": "www.linkedin.com/in/davidlee2003",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "I am an electrical engineer with hands-on experience designing embedded systems, power electronics, and human–machine interfaces. Much of my work centers on integrating hardware, firmware, and signal conditioning for real-world applications. I have developed a multi-servo prosthetic hand controlled through EMG muscle signals, including custom filtering, ADC mapping, and motion-classification logic. Alongside this, I’ve designed several PCBs such as a multi-voltage power stage, a buck converter, a boost converter, and a fully isolated DC-AC flyback converter. These projects strengthened my understanding of power systems, switching topologies, and PCB layout for both efficiency and manufacturability. Currently, I am building a mobile solar power generator intended for disaster-relief and mission-critical scenarios. This project combines solar power harvesting, MPPT control, battery management, and ruggedized mechanical design. I’m driven by creating systems that are both technically elegant and practically useful—bridging electronics, biomechanics, and sustainable technologies.",
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2026",
