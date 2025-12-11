@@ -13,16 +13,16 @@
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "I am an electrical engineer with practical experience in embedded systems power electronics and human–machine interfaces. I built an EMG controlled prosthetic hand with custom signal filtering ADC mapping and motion logic. I designed PCBs that include a multi voltage power stage a buck converter a boost converter and an isolated DC AC flyback converter which strengthened my skills in power systems and PCB layout. I am currently developing a mobile solar power generator for disaster relief and mission critical use with features such as MPPT control battery management and rugged mechanical design. I focus on creating systems that are technically strong and highly useful in real world applications across electronics biomechanics and sustainable technology.",
+  "ExperienceText": "I am an electrical engineer with practical experience in embedded systems power-electronics and human–machine interfaces. I built an EMG-controlled prosthetic hand with custom signal filtering ADC mapping and motion logic. I designed PCBs that include a multi voltage power stage a buck converter a boost converter and an isolated DC AC flyback converter which strengthened my skills in power systems and PCB layout. I am currently developing a mobile solar power generator for disaster relief and mission critical use with features such as MPPT control battery management and rugged mechanical design. I focus on creating systems that are technically strong and highly useful in real world applications across electronics biomechanics and sustainable technology.",
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2026",
-  "EducationText": "Use this to add some narrative to your education section",
+  "EducationText": "I studied electrical engineering with a focus on circuits, powersystems, microcontrollers signal processing, and bio-inspired design. My work in these areas helped me build strong skills in analysis, design, and hands-on engineering practice.",
   "Employment": "Seattle Pacific University",
-  "Role": "Anatomy and Physiology Teaching & Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " Assembly", " MultiSim", " MatLab"," RStudio"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Role": "Resident Advisor and Anatomy and Physiology Teaching & Lab Assistant",
+  "EmploymentText": "In my role as a Resident Advisor and as an Anatomy and Physiology Teaching and Lab Assistant, I support both student learning and student community life. As a Resident Advisor, I mentor residents, guide conflict resolution, and help create a safe and supportive living environment. As a Teaching and Lab Assistant, I prepare weekly labs, assist students during experiments, and reinforce key concepts in human biology. These roles strengthened my leadership communication and problem-solving skills, and they taught me how to support others with patience, clarity, and professionalism.",
+  "Skills": ["C++", " Assembly", " MultiSim", " MatLab"," RStudio", "Atium"],
+  "SkillsText": "My skills include embedded programming circuit-design, PCB layout, and signal analysis. I enjoy solving engineering problems and creating systems that are clear, functional, and dependable.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
