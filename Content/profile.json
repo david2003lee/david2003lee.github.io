@@ -38,11 +38,10 @@
     "MainImage": "thumbnail_IMG_9769.jpg",
   },
   "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "Title": "Simulation of Solar Power Generator",
+    "Desc": "Simulation model that displays the mobile solar power generator output data depending on various input variables.",
     "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+    "MainImage": "Screenshot 2025-12-10 165913.png",
   },
   "Project4": {
     "Title": "",
