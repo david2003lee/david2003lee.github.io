@@ -28,14 +28,14 @@
 "Project1": {
     "Title": "DCDC Converter & DCAC Inverter",
     "Desc": "Designed and printed PCB that had buck and boost converter along with the DCAC Flyback inverter design",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "PCBSchElec2",
+    "GitHubRepo": "",
+    "MainImage": "ConvertInvert3DPCB.png",
     "DetailImages": []
   },
   "Project2": {
     "Title": "EMG Signal Reading Prosthetic Arm",
     "Desc": "Developed a prosthetic that read muscle activities and flexed the fingers accordingly",
-    "GitHubRepo": "https://github.com",
+    "GitHubRepo": "",
     "MainImage": "thumbnail_IMG_9769.jpg",
     "DetailImages": []
   },
