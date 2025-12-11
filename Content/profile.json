@@ -1,4 +1,4 @@
-{
+ {
 "About": {
   "Name": "David Lee",
   "Currently": "Electrical Engineering Student with a background in Biology",
@@ -32,11 +32,10 @@
     "MainImage": "Screenshot 2025-12-10 165245.png",
   },
   "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "Title": "EMG Signal Reading Prosthetic Arm",
+    "Desc": "Developed a prosthetic that read muscle activities and flexed the fingers accordingly",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "MainImage": "thumbnail_IMG_9769.jpg",
   },
   "Project3": {
     "Title": "Interesting Project 3",
