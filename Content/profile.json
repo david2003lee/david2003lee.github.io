@@ -26,7 +26,7 @@
   "Resume": "Lee David Resume 2025 (1).pdf"  
 },
 "Project1": {
-    "Title": "DCDC Converter & DCAC Inverter",
+    "Title": "DC-DC Converter & DC-AC Inverter",
     "Desc": "Designed and printed PCB that had buck and boost converter along with the DCAC Flyback inverter design",
     "GitHubRepo": "",
     "MainImage": "ConvertInvertPCB3D",
