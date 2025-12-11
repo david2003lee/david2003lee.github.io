@@ -30,21 +30,21 @@
     "Desc": "Designed and printed PCB that had buck and boost converter along with the DCAC Flyback inverter design",
     "GitHubRepo": "https://github.com",
     "MainImage": "Screenshot 2025-12-10 165245.png",
-    "DetailImages": [Screenshot 2025-12-10 165245.png,thumbnail_IMG_9769.jpg, Screenshot 2025-12-10 165913.png]
+    "DetailImages": []
   },
   "Project2": {
     "Title": "EMG Signal Reading Prosthetic Arm",
     "Desc": "Developed a prosthetic that read muscle activities and flexed the fingers accordingly",
     "GitHubRepo": "https://github.com",
     "MainImage": "thumbnail_IMG_9769.jpg",
-    "DetailImages": [Screenshot 2025-12-10 165245.png,thumbnail_IMG_9769.jpg, Screenshot 2025-12-10 165913.png]
+    "DetailImages": []
   },
   "Project3": {
     "Title": "Simulation of Solar Power Generator",
     "Desc": "Simulation model that displays the mobile solar power generator output data depending on various input variables.",
     "GitHubRepo": "",
     "MainImage": "Screenshot 2025-12-10 165913.png",
-    "DetailImages": [Screenshot 2025-12-10 165245.png,thumbnail_IMG_9769.jpg, Screenshot 2025-12-10 165913.png]
+    "DetailImages": []
   },
   "Project4": {
     "Title": "",
