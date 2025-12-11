@@ -26,11 +26,10 @@
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "Title": "DCDC Converter & DCAC Inverter",
+    "Desc": "Designed and printed PCB that had buck and boost converter along with the DCAC Flyback inverter design",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "Screenshot 2025-12-10 165245.png",
   },
   "Project2": {
     "Title": "Interesting Project 2",
